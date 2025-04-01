@@ -13,7 +13,7 @@ As with Tutorial 01, to run Tutorial 02, do the following:
 
 .. code-block:: console
 
-   cd $ELMFIRE_BASE_DIR/tutorials/02-transient_wind
+   cd $ELMFIRE_BASE_DIR/tutorials/02-transient-wind
    ./01-run.sh
 
 This will run a nominally 6-hr simulation with wind out of the north for 
